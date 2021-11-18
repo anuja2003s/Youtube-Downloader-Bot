@@ -5,11 +5,12 @@ from pyrogram import Client, Filters, StopPropagation, InlineKeyboardButton, Inl
 async def start(client, message):
     # return
     joinButton = InlineKeyboardMarkup([
-        [InlineKeyboardButton("**➕ Add me to your Group ➕**", url="https://t.me/youtube_Downloder_4k_bot?startgroup=true")],
+        [InlineKeyboardButton("💞🎧MUSIC & VIDEO W🌍RLD™🎧💞", url="https://t.me/Musicworldanu/1")]
+        [InlineKeyboardButton("➕ Add me to your Group ➕", url="https://t.me/youtube_Downloder_4k_bot?startgroup=true")],
         
         [
-            InlineKeyboardButton("**👥 Official Group**", url="https://t.me/anujasu"),
-            InlineKeyboardButton("**📣 Official Channel**", url="https://t.me/musicworldanu"),
+            InlineKeyboardButton("👥 Official Group", url="https://t.me/anujasu"),
+            InlineKeyboardButton("📣 Official Channel", url="https://t.me/musicworldanu"),
         
         ],
         [
